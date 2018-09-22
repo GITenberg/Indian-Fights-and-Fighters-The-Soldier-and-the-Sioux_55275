@@ -1,0 +1,26 @@
+_repo: Indian-Fights-and-Fighters-The-Soldier-and-the-Sioux_55275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2017-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dakota Indians -- Wars'
+- !lcsh 'Indians of North America -- Wars -- 1866-1895'
+- !lcc 'E011'
+- GITenberg
+title: 'Indian Fights and Fighters: The Soldier and the Sioux'
+url: http://www.gutenberg.org/ebooks/55275
